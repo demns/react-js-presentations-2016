@@ -4,6 +4,8 @@ https://docs.google.com/presentation/d/1AvydDLrrj1lWjTxpKTox3lKXH83b8kT8VdTyECLh
 
 https://docs.google.com/presentation/d/1xO2nTqjQ0Av9ug4cn0nnC2dxFXCxPUY70mE_hKpzJ8g/edit?usp=sharing
 
+https://docs.google.com/presentation/d/1i6czUmCh9cCXe4kQluzalvP35j2aVotK1UDCixvTTMw/edit?usp=sharing
+
 https://egghead.io/react-redux-cheatsheets
 
 https://jsbin.com/ruyagi/2/edit?html,js,output
